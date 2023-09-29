@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+  }
+  
+  h1 {
+    color:rgb(133, 106, 158);
+    font-size: 40px;
+    align-items: center;
+    text-align: center;
+  }
+  .pepo {
+    color:rgb(133, 106, 158);
+    font-size: 13px;
+    display: inline;
+  }
+  
+  .pepo2 {
+    color:rgb(25, 19, 31); 
+    font-size: 13px;
+    display: inline;
+  }
+  
+body {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.a{
+  text-align: center;
+  align-items: center;
+}
